@@ -1,0 +1,7 @@
+
+
+#perimeter of square
+a=float(input("enter the side value:"))
+perimeter=4*a
+print("perimeter of the square:",perimeter)
+
